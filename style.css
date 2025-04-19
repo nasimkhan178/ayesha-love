@@ -866,7 +866,7 @@ body {
 @media screen and (max-width: 658px) {
     .textLove p {
         font-family: 'Roboto', sans-serif;
-        font-size: 2.7rem;
+        font-size: 2rem;
         padding: 0px 10px;
         -webkit-text-stroke: 3px red;
         -webkit-text-fill-color: #fff;
